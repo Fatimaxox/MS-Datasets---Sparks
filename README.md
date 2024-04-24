@@ -46,7 +46,7 @@ Here, researchers and individuals interested in MS can easily access various dat
 - **Number of Subjects:** 100 with 40 cases
 - **MRI Sequence Included:** Flair
 - **Year of Publication:** 2021
-- **Data Type:** NHDR
+- **Data Type:** NIFIT
 
 ## MS Classification
 
