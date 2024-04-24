@@ -17,7 +17,6 @@ Here, researchers and individuals interested in MS can easily access various dat
 - **Year of Publication:** 2022
 - **Data Type:** NIFIT
 
-![MS Brain MRI](images/ms_brain_mri.jpg)
 
 ### Dataset 2: ISBI2015 MS Dataset or MS Longitudinal Challenge DataSet
 
