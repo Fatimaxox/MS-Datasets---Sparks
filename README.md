@@ -59,6 +59,6 @@ Additionally, other resources were utilized:
 
 ## Contributors
 
-This repository was made by Sparks Team.
+This repository was made by Sparks Team. <br>
 **MS**olution
 🧠🔬📊
