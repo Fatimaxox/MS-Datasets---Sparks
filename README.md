@@ -1,4 +1,4 @@
-![MS Lesions on MRI](https://www.researchgate.net/profile/Olfa-Ghribi/publication/269272327/figure/fig1/AS:393540434710535@1470838759982/MS-lesions-on-MRI-Various-types-of-MS-lesions-are-present-blue-Enhancing-lesions.png)
+![MS Header](https://sonographictendencies.files.wordpress.com/2021/03/ms-header.png?w=1400&h=400&crop=1)
 
 
 # MS Datasets Repository
