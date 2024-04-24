@@ -1,4 +1,4 @@
-![MS Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfro-icjwkSk2ihFWuWk4vF-zq4GSEqRdbEEB7sAAM&s)
+![MS Header](https://www.researchgate.net/profile/Olfa-Ghribi/publication/269272327/figure/fig1/AS:393540434710535@1470838759982/MS-lesions-on-MRI-Various-types-of-MS-lesions-are-present-blue-Enhancing-lesions.png)
 
 
 # MS Datasets Repository
