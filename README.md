@@ -1,8 +1,10 @@
 # MS Datasets Repository
 
-Welcome to the MS Datasets Repository! This repository is dedicated to showcasing datasets used in both segmentation and classification problems related to Multiple Sclerosis (MS). Here, researchers and individuals interested in MS can easily access various datasets containing MRI images.
+Welcome to the MS Datasets Repository! 
+This repository is dedicated to showcasing datasets used in both segmentation and classification problems related to Multiple Sclerosis (MS). 
+Here, researchers and individuals interested in MS can easily access various datasets containing MRI images.
 
-## Segmentation
+## MS Segmentation
 
 ### Dataset 1: Brain MRI Dataset of MS with Consensus Manual Lesion Segmentation and Patient Meta Information
 
@@ -44,7 +46,7 @@ Welcome to the MS Datasets Repository! This repository is dedicated to showcasin
 - **Year of Publication:** 2021
 - **Data Type:** NHDR
 
-## Classification
+## MS Classification
 
 For classification, a local Saudi dataset obtained from King Fahad Specialists Hospital was utilized. A total of 229 patients participated, with MRI orientation covering Brain (Axial, Coronal, Sagittal) and Spinal cord. The MRI sequences included T1, T2, and FLAIR.
 
