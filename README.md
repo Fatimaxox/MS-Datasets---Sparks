@@ -33,7 +33,7 @@ Here, researchers and individuals interested in MS can easily access various dat
 - **Year of Publication:** 2016
 - **Data Type:** NIFIT
 
-### Dataset 4: Multiple Sclerosis 2016 Lesion
+### Dataset 4: 2008 MICCAI MS Lesion Segmentation Challenge
 
 - **Number of Subjects:** 45 with 5 cases
 - **MRI Sequences Included:** T1, T2, Flair
