@@ -55,7 +55,7 @@ For classification, a local Saudi dataset obtained from King Fahad Specialists H
 Additionally, other resources were utilized:
 
 - Normal cases taken from [Brain Tumor MRI Images - 17 Classes](https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-17-classes?select=NORMAL+T2) with 50 samples taken from T1, T2.
-- Not MS cases from [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Testing) with 263 samples for the 3 types of human.
+- Not MS cases from [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Testing) with 263 samples for the 3 types of tumor.
 
 ## Contributors
 
